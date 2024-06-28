@@ -1,5 +1,4 @@
--- File: lua/custom/plugins/filetree.lua
-
+-- File: lua/custom/plugins/neotree.lua
 return {
   'nvim-neo-tree/neo-tree.nvim',
   version = '*',
